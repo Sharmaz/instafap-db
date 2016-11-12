@@ -1,0 +1,26 @@
+{
+  "name": "instafap-db",
+  "version": "1.0.0",
+  "description": "Instafap Database Client",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharmaz/instafap-db.git"
+  },
+  "author": "Ivan Robles <irae45@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharmaz/instafap-db/issues"
+  },
+  "homepage": "https://github.com/Sharmaz/instafap-db#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "standard": "^8.5.0"
+  }
+}
